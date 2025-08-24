@@ -1,3 +1,5 @@
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
 # SSG Mobile Application – Manual Testing
 
 This repository contains **manual test cases** for the **SSG Mobile Application (L1 Resident module)**.  
